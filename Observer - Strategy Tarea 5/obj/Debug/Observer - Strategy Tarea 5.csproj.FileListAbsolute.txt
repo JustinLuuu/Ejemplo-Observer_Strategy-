@@ -1,0 +1,14 @@
+C:\Users\justi\OneDrive\Escritorio\Observer - Strategy Tarea 5\Observer - Strategy Tarea 5\bin\Debug\Observer - Strategy Tarea 5.exe.config
+C:\Users\justi\OneDrive\Escritorio\Observer - Strategy Tarea 5\Observer - Strategy Tarea 5\bin\Debug\Observer - Strategy Tarea 5.exe
+C:\Users\justi\OneDrive\Escritorio\Observer - Strategy Tarea 5\Observer - Strategy Tarea 5\bin\Debug\Observer - Strategy Tarea 5.pdb
+C:\Users\justi\OneDrive\Escritorio\Observer - Strategy Tarea 5\Observer - Strategy Tarea 5\obj\Debug\Observer - Strategy Tarea 5.csprojAssemblyReference.cache
+C:\Users\justi\OneDrive\Escritorio\Observer - Strategy Tarea 5\Observer - Strategy Tarea 5\obj\Debug\Observer - Strategy Tarea 5.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Escritorio\Observer - Strategy Tarea 5\Observer - Strategy Tarea 5\obj\Debug\Observer - Strategy Tarea 5.exe
+C:\Users\justi\OneDrive\Escritorio\Observer - Strategy Tarea 5\Observer - Strategy Tarea 5\obj\Debug\Observer - Strategy Tarea 5.pdb
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Cuarto cuatrimestre\Programacion II\Patrones de diseño\Strategy\Observer - Strategy Tarea 5\Observer - Strategy Tarea 5\bin\Debug\Observer - Strategy Tarea 5.exe.config
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Cuarto cuatrimestre\Programacion II\Patrones de diseño\Strategy\Observer - Strategy Tarea 5\Observer - Strategy Tarea 5\bin\Debug\Observer - Strategy Tarea 5.exe
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Cuarto cuatrimestre\Programacion II\Patrones de diseño\Strategy\Observer - Strategy Tarea 5\Observer - Strategy Tarea 5\bin\Debug\Observer - Strategy Tarea 5.pdb
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Cuarto cuatrimestre\Programacion II\Patrones de diseño\Strategy\Observer - Strategy Tarea 5\Observer - Strategy Tarea 5\obj\Debug\Observer - Strategy Tarea 5.csprojAssemblyReference.cache
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Cuarto cuatrimestre\Programacion II\Patrones de diseño\Strategy\Observer - Strategy Tarea 5\Observer - Strategy Tarea 5\obj\Debug\Observer - Strategy Tarea 5.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Cuarto cuatrimestre\Programacion II\Patrones de diseño\Strategy\Observer - Strategy Tarea 5\Observer - Strategy Tarea 5\obj\Debug\Observer - Strategy Tarea 5.exe
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Cuarto cuatrimestre\Programacion II\Patrones de diseño\Strategy\Observer - Strategy Tarea 5\Observer - Strategy Tarea 5\obj\Debug\Observer - Strategy Tarea 5.pdb
